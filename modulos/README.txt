@@ -1,0 +1,5 @@
+-->Archivos donde se especifica el funcionamiento de modulos que estan por defecto en Node.js
+-error          ->captura de errores
+-http           ->servidor http
+-os             ->uso del sistema operativo
+-fs             -> manejo de archivos

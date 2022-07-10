@@ -1,0 +1,5 @@
+--Manejo de modulos como importar y exportar
+    -->directorio raiz como se importa y exporta normalmente sin actualización
+    -->directorio es6 como se importa y exporta actualizado 
+        -->para correr el es6 los archivos tienen que estar con extensión .mjs
+        -->el comando para correr estos archivos es: node --experimental-modules index.mjs
